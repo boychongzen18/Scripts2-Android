@@ -10,6 +10,8 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/kipli.jpg)
 # Tampilan Qpython2
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/qpython.jpg)
+# Tampilan Popon v.224 ( Durasi 2jam Lebih )
+![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/popon1.jpg)
 # Tampilan TV Online
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tv1.jpg)
 
@@ -18,6 +20,8 @@
 # Tampilan Termux 
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tremos.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tremos1.jpg)
+# Tampilan Popon v.224 
+![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/popon.jpg)
 # Tampilan TV Online
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tv.jpg)
 
