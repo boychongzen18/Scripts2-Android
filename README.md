@@ -18,12 +18,11 @@
 # Tampilan Telkomyet Paket Maxstream
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tsel.jpg)
 # Tampilan Termux 
-![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tremos.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tremos1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/2.jpg)
 # Tampilan Popon v.224 
-![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/popon.jpg)
-# Tampilan TV Online
-![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/tv.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Android/master/3.jpg)
+
 
 # Link Apk Termux For Android : https://apkpure.com/id/termux/com.termux
 
